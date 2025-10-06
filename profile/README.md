@@ -77,7 +77,8 @@ mvn spring-boot:run
 
 ## 📖 Documentação
 
-A documentação completa do projeto, incluindo diagramas UML, casos de uso e arquitetura do sistema, está disponível na pasta `/docs`.
+A documentação completa do projeto, incluindo diagramas UML, casos de uso e arquitetura do sistema, está disponível no diretório de documento:
+```Lavanderia-Colonia/Documentos```
 
 ### Documentos Principais
 - Documento de Regra de Negócio
@@ -121,5 +122,5 @@ Este projeto foi desenvolvido para fins acadêmicos como parte do curso de Anál
 **Instituição**: Faculdade de Tecnologia - Mogi das Cruzes  
 **Curso**: Análise e Desenvolvimento de Sistemas  
 **Disciplina**: Engenharia de Software 3  
-**Período**: [4ºSemestre/2ºAno]  
-**Professor Orientador**: [Fretz Sievers Júnior]
+**Período**: 4ºSemestre/2ºAno  
+**Professor Orientador**: Fretz Sievers Júnior
