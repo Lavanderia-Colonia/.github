@@ -25,9 +25,9 @@ O projeto visa automatizar e otimizar os processos de atendimento, controle de p
 - Diogo Santana de Almeida - RA: 1840482412001
 - Felipe Kenji Oizumi - RA: 1840482412024
 - João Paulo Akira Sigue - RA: 1840482412005
-- Marcos Guilherme Tasato - RA: 1840482412006
 - Luciano Akihiro Tokuno - RA: 1840482412017
 - Luana Mika Maruyama - RA: 1840482412016
+- Marcos Guilherme Tasato - RA: 1840482412006
 
 ## 📚 Funcionalidades
 
