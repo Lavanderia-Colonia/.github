@@ -14,7 +14,7 @@ O projeto visa automatizar e otimizar os processos de atendimento, controle de p
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Frontend**: []
+- **Frontend**: React
 - **Backend**: Java, Spring Boot
 - **Banco de Dados**: PostgresSQL
 - **Ferramentas**: Git
