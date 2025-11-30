@@ -70,9 +70,14 @@ cd backend
 mvn spring-boot:run
 
 # Acesse a pasta do frontend
+cd frontend
+
+# Instala as dependências de frontend
+yarn
 
 # Inicie o frontend
-[Inicio]
+yarn start
+
 ```
 
 ## 📖 Documentação
@@ -89,15 +94,6 @@ A documentação completa do projeto, incluindo diagramas UML, casos de uso e ar
 - Modelo Entidade Relacionamento
 - Diagrama de Classes
 
-## 🧪 Testes
-
-```bash
-# Executar testes unitários
-[comando de teste]
-
-# Executar testes de integração
-[comando de teste de integração]
-```
 
 ## 📝 Metodologia de Desenvolvimento
 
